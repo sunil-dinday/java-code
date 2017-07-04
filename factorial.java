@@ -6,9 +6,9 @@ class store{
 
 
  static int MAXIMUM=400;
-	int number;
-	int res[];
-	int size;
+private	int number;
+private	int res[];
+private	int size;
 	store(int number)
 	{
 		res=new int[MAXIMUM];
